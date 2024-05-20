@@ -14,7 +14,7 @@ Esc键返回编辑器 ← →控制玩家移动 空格键跳跃<br>
 预览图片——进入关卡：<br>
 ![image](img/2.png)
 展示视频：<br>
-<video width="320" height="240" controls>
+<video width="960" height="560" controls>
   <source src="3" type="video/mp4">
   Your browser does not support the video tag.
 </video>
