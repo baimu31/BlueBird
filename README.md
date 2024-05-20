@@ -16,4 +16,3 @@ Esc键返回编辑器 ← →控制玩家移动 空格键跳跃<br>
 展示视频：<br>
 <video width="960" height="560" controls>
   <source src="img/3.mp4" type="video/mp4">
-</video>
